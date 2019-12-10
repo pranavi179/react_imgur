@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import ImageCard from './components/imageCard';
-import navbarr from './components/navbarr'
+import ImageCard from './component/imagecard.js';
+import navbar from './component/navbar.js';
 
 function App() {
   return (

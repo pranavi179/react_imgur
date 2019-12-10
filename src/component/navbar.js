@@ -1,9 +1,8 @@
-import React from 'react'
+import React, { Component } from 'react';
 // import ReactDOM from 'react-dom';
 import '../index.css';
 
-import logo from '../logo.svg';
-// import Icon  from 'antd/es/icon'
+// cd l
 import Search from './search';
 
 
@@ -36,3 +35,4 @@ export default class Navbar extends React.Component{
 
 
 
+// export default Navbar;
